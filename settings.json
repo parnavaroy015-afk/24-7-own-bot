@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "AlooBOT02",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "privatesmp016659.mcsh.io",
+    "port": 12374,
     "version": "1.20.1",
     "try-creative": false
   },
