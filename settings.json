@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "privatesmp016659.mcsh.io",
-    "port": 12374,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
