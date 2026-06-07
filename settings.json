@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FunSMP015.aternos.me",
-    "port": 35030,
+    "ip": "funsmp016.freezehost.com",
+    "port": 10461,
     "version": "1.20.1",
     "try-creative": false
   },
