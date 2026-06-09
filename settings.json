@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "funsmp016.freezehost.com",
-    "port": 10461,
+    "ip": "privatesmp016659.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
