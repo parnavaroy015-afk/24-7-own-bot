@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFKBOT_015",
+    "username": "AFKBOT2.0",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "privatesmp016659.mcsh.io",
+    "ip": "funsmp2-0.mcsh.gg",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
