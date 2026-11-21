@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "funsmp2-0.mcsh.gg",
-    "port": 25565,
+    "port": 29301,
     "version": "1.20.1",
     "try-creative": false
   },
